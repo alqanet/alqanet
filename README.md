@@ -66,43 +66,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alqanet&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FFAA&icon_color=FFD93D&text_color=FFFFFF&border_radius=20" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alqanet&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FFAA&icon_color=FFD93D&text_color=FFFFFF&border_radius=20" width="38%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=alqanet&theme=radical&hide_border=true&background=0D1117&stroke=00FFAA&ring=00FFAA&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=00FFAA&currStreakLabel=00FFAA&sideLabels=FFFFFF&dates=AAAAAA&border_radius=20" width="70%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alqanet&theme=react-dark&bg_color=0d1117&color=00FFAA&line=00FFAA&point=FF6B6B&hide_border=true&border_radius=20" width="90%" />
-</p>
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alqanet&theme=radical&no-frame=true&row=1&column=6&margin-w=15" width="85%" />
-</p>
-
-<!--
-  ⚠️ Note: The trophy image above only renders if "alqanet" is a REAL,
-  public GitHub username with activity. If it stays blank/broken after
-  you replace it with your real username, use this static fallback instead:
--->
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🏆_Top_Contributor-FFD93D?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/🔥_Active_Streak-00FFAA?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/⭐_Open_Source-FF6B6B?style=for-the-badge&labelColor=0d1117" />
-</p>
-
----
-
 ## 📬 Connect With Me
 
 <p align="center">
