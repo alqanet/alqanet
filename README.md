@@ -2,14 +2,19 @@
 <!-- 🎨 ALQANET - CARTOON STYLE PROFILE                          -->
 <!-- ============================================================ -->
 
-<!-- ===== TOP BANNER WITH CHARACTER ===== -->
+<!-- ===== TOP BANNER WITH LOGO ===== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=250&section=header&text=🎮%20ALQANET%20🎮&fontSize=60&fontColor=FFFFFF&animation=twinkling" width="100%" />
 </p>
 
+<!-- ===== ALQANET LOGO ===== -->
+<p align="center">
+  <img src="https://github.com/alqanet/alqanet/blob/main/Images/ALQANET.png?raw=true" width="300" style="border-radius: 30px; border: 5px solid #00FFAA;" />
+</p>
+
 <!-- ===== ANIME STYLE TITLE ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=800&lines=⚡+WELCOME+TO+MY+WORLD+⚡;🚀+BUILDING+THE+FUTURE+🚀;💪+MANPOWER+PLATFORM+💪;🎯+LEVEL+99+DEVELOPER+🎯" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=28&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=800&lines=⚡+WELCOME+TO+MY+WORLD+⚡;🚀+BUILDING+THE+FUTURE+🚀;💪+MANPOWER+PLATFORM+💪;🎯+LEVEL+99+DEVELOPER+🎯" alt="Typing SVG" />
 </p>
 
 <!-- ===== CARTOON CHARACTER BANNER ===== -->
@@ -46,9 +51,9 @@
       <br>
       <!-- Stats Badges -->
       <p align="center">
-        <img src="https://komarev.com/ghpvc/?username=alqanet&label=👀+Profile+Views&color=00FFAA&style=for-the-badge" alt="Profile Views" />
-        <img src="https://img.shields.io/github/followers/alqanet?label=⭐+Followers&style=for-the-badge&color=FFD93D" alt="Followers" />
-        <img src="https://img.shields.io/github/stars/alqanet?label=🌟+Stars&style=for-the-badge&color=FF6B6B" alt="Stars" />
+        <img src="https://komarev.com/ghpvc/?username=alqanet&label=Profile+Views&color=00FFAA&style=for-the-badge" alt="Profile Views" />
+        <img src="https://img.shields.io/github/followers/alqanet?label=Followers&style=for-the-badge&color=FFD93D" alt="Followers" />
+        <img src="https://img.shields.io/github/stars/alqanet?label=Stars&style=for-the-badge&color=FF6B6B" alt="Stars" />
       </p>
     </td>
     <td width="50%" align="center">
@@ -101,13 +106,13 @@
       <!-- Tech Stack - Cartoon Badges -->
       <p style="color: #FFFFFF; font-size: 20px; font-weight: bold;">🛠️ POWER-UPS</p>
       <p>
-        <img src="https://img.shields.io/badge/⚡-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/⚡-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/⚡-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/⚡-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/⚡-PlanetScale-000000?style=for-the-badge&logo=planetscale&logoColor=white" />
-        <img src="https://img.shields.io/badge/⚡-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-        <img src="https://img.shields.io/badge/⚡-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/PlanetScale-000000?style=for-the-badge&logo=planetscale&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
       </p>
       
       <br>
@@ -142,11 +147,11 @@
       <br>
       <p style="color: #FFFFFF; font-size: 16px;">📈 LEVEL PROGRESS</p>
       <p>
-        <img src="https://progress-bar.dev/80/?title=⚡+Backend&width=250&color=00FFAA" />
-        <img src="https://progress-bar.dev/60/?title=🎨+Frontend&width=250&color=FFD93D" />
+        <img src="https://progress-bar.dev/80/?title=Backend&width=250&color=00FFAA" />
+        <img src="https://progress-bar.dev/60/?title=Frontend&width=250&color=FFD93D" />
         <br>
-        <img src="https://progress-bar.dev/40/?title=🧪+Testing&width=250&color=FF6B6B" />
-        <img src="https://progress-bar.dev/50/?title=🚀+Deployment&width=250&color=00FFAA" />
+        <img src="https://progress-bar.dev/40/?title=Testing&width=250&color=FF6B6B" />
+        <img src="https://progress-bar.dev/50/?title=Deployment&width=250&color=00FFAA" />
       </p>
       
     </td>
@@ -172,28 +177,28 @@
   </tr>
   <tr>
     <td align="center" style="padding: 15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/><br>
       <span style="color: #FFFFFF; font-weight: bold;">JavaScript</span><br>
       <img src="https://img.shields.io/badge/Level-90%25-00FFAA?style=for-the-badge" />
       <br>
       <progress value="90" max="100" style="width:150px; height:15px; border-radius:10px;"></progress>
     </td>
     <td align="center" style="padding: 15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60" height="60"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60"/><br>
       <span style="color: #FFFFFF; font-weight: bold;">TypeScript</span><br>
       <img src="https://img.shields.io/badge/Level-80%25-00FFAA?style=for-the-badge" />
       <br>
       <progress value="80" max="100" style="width:150px; height:15px; border-radius:10px;"></progress>
     </td>
     <td align="center" style="padding: 15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60"/><br>
       <span style="color: #FFFFFF; font-weight: bold;">React</span><br>
       <img src="https://img.shields.io/badge/Level-85%25-00FFAA?style=for-the-badge" />
       <br>
       <progress value="85" max="100" style="width:150px; height:15px; border-radius:10px;"></progress>
     </td>
     <td align="center" style="padding: 15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" height="60"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60"/><br>
       <span style="color: #FFFFFF; font-weight: bold;">Node.js</span><br>
       <img src="https://img.shields.io/badge/Level-75%25-FFD93D?style=for-the-badge" />
       <br>
@@ -202,28 +207,28 @@
   </tr>
   <tr>
     <td align="center" style="padding: 15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="60" height="60"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/><br>
       <span style="color: #FFFFFF; font-weight: bold;">MySQL</span><br>
       <img src="https://img.shields.io/badge/Level-70%25-FFD93D?style=for-the-badge" />
       <br>
       <progress value="70" max="100" style="width:150px; height:15px; border-radius:10px;"></progress>
     </td>
     <td align="center" style="padding: 15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" height="60"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/><br>
       <span style="color: #FFFFFF; font-weight: bold;">Git</span><br>
       <img src="https://img.shields.io/badge/Level-85%25-00FFAA?style=for-the-badge" />
       <br>
       <progress value="85" max="100" style="width:150px; height:15px; border-radius:10px;"></progress>
     </td>
     <td align="center" style="padding: 15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60" height="60"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60"/><br>
       <span style="color: #FFFFFF; font-weight: bold;">Docker</span><br>
       <img src="https://img.shields.io/badge/Level-60%25-FFD93D?style=for-the-badge" />
       <br>
       <progress value="60" max="100" style="width:150px; height:15px; border-radius:10px;"></progress>
     </td>
     <td align="center" style="padding: 15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/><br>
       <span style="color: #FFFFFF; font-weight: bold;">Python</span><br>
       <img src="https://img.shields.io/badge/Level-50%25-FF6B6B?style=for-the-badge" />
       <br>
@@ -256,15 +261,6 @@
 <!-- Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alqanet&theme=react-dark&bg_color=0d1117&color=00FFAA&line=00FFAA&point=FF6B6B&hide_border=true&border_radius=20" width="90%" />
-</p>
-
-<!-- ===== SNAKE GAME - CARTOON ===== -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alqanet/alqanet/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alqanet/alqanet/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/alqanet/alqanet/output/github-contribution-grid-snake.svg" />
-  </picture>
 </p>
 
 <!-- ============================================================ -->
