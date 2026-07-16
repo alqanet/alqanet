@@ -9,22 +9,21 @@
 
 <!-- ===== ANIME STYLE TITLE ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=800&lines=WELCOME+TO+MY+WORLD;BUILDING+THE+FUTURE;MANPOWER+PLATFORM;LEVEL+99+DEVELOPER" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=700&lines=WELCOME+TO+MY+WORLD;BUILDING+THE+FUTURE;MANPOWER+PLATFORM;LEVEL+99+DEVELOPER" alt="Typing SVG" />
 </p>
 
 <!-- ===== CARTOON CHARACTER BANNER ===== -->
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpYqx/giphy.gif" width="350" style="border-radius: 20px; border: 3px solid #00FFAA;" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpYqx/giphy.gif" width="300" style="border-radius: 20px; border: 3px solid #00FFAA;" />
 </p>
 
 <!-- ============================================================ -->
-<!-- 🧑‍💻 CARTOON ABOUT ME                                         -->
+<!-- 🧑‍💻 ABOUT ME                                                 -->
 <!-- ============================================================ -->
 
 <table align="center" width="100%" style="border: 3px solid #00FFAA; border-radius: 30px; background: #0a0a0a; padding: 20px;">
   <tr>
     <td width="50%" valign="middle">
-      <!-- Speech Bubble -->
       <table style="background: #1a1a1a; border-radius: 30px; border: 2px dashed #00FFAA; padding: 20px;">
         <tr>
           <td>
@@ -60,7 +59,7 @@
 </table>
 
 <!-- ============================================================ -->
-<!-- 🎯 ALQANET - CARTOON PROJECT CARD                           -->
+<!-- 🎯 ALQANET PROJECT                                           -->
 <!-- ============================================================ -->
 
 <br>
@@ -69,7 +68,6 @@
   <img src="https://img.shields.io/badge/STAR-MAIN%20PROJECT-00FFAA?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-<!-- ===== CARTOON PROJECT CARD ===== -->
 <table align="center" style="border: 5px solid #00FFAA; border-radius: 40px; background: #0a0a0a; width: 90%;">
   <tr>
     <td align="center" style="padding: 30px;">
@@ -151,7 +149,7 @@
 </table>
 
 <!-- ============================================================ -->
-<!-- 💪 SKILLS - POWER LEVEL                                      -->
+<!-- 💪 SKILLS                                                    -->
 <!-- ============================================================ -->
 
 <br>
@@ -160,7 +158,6 @@
   <img src="https://img.shields.io/badge/POWER-LEVEL-00FFAA?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-<!-- ===== SKILLS TABLE ===== -->
 <table align="center" style="border: 3px solid #FFD93D; border-radius: 30px; background: #0a0a0a; width: 90%;">
   <tr>
     <td align="center" colspan="4" style="padding: 15px;">
@@ -228,12 +225,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alqanet&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FFAA&icon_color=FFD93D&text_color=FFFFFF&border_radius=20" width="40%" />
 </p>
 
-<!-- Streak Stats -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=alqanet&theme=radical&hide_border=true&background=0D1117&stroke=00FFAA&ring=00FFAA&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=00FFAA&currStreakLabel=00FFAA&sideLabels=FFFFFF&dates=AAAAAA&border_radius=20" width="70%" />
 </p>
 
-<!-- Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alqanet&theme=react-dark&bg_color=0d1117&color=00FFAA&line=00FFAA&point=FF6B6B&hide_border=true&border_radius=20" width="90%" />
 </p>
@@ -253,7 +248,7 @@
 </p>
 
 <!-- ============================================================ -->
-<!-- 📬 CONNECT - BUTTONS                                         -->
+<!-- 📬 CONNECT                                                   -->
 <!-- ============================================================ -->
 
 <br>
