@@ -58,10 +58,10 @@
 ## 📈 Project Progress
 
 <p align="center">
-  <img src="https://progress-bar.dev/85/?title=Backend&width=250&color=00FFAA" /><br>
-  <img src="https://progress-bar.dev/70/?title=Frontend&width=250&color=FFD93D" /><br>
-  <img src="https://progress-bar.dev/50/?title=Testing&width=250&color=FF6B6B" /><br>
-  <img src="https://progress-bar.dev/60/?title=Deployment&width=250&color=00FFAA" />
+  <img src="https://img.shields.io/badge/Backend-85%25-00FFAA?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Frontend-70%25-FFD93D?style=for-the-badge&labelColor=0d1117" /><br>
+  <img src="https://img.shields.io/badge/Testing-50%25-FF6B6B?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Deployment-60%25-00FFAA?style=for-the-badge&labelColor=0d1117" />
 </p>
 
 ---
@@ -87,6 +87,18 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=alqanet&theme=radical&no-frame=true&row=1&column=6&margin-w=15" width="85%" />
+</p>
+
+<!--
+  ⚠️ Note: The trophy image above only renders if "alqanet" is a REAL,
+  public GitHub username with activity. If it stays blank/broken after
+  you replace it with your real username, use this static fallback instead:
+-->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆_Top_Contributor-FFD93D?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🔥_Active_Streak-00FFAA?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/⭐_Open_Source-FF6B6B?style=for-the-badge&labelColor=0d1117" />
 </p>
 
 ---
